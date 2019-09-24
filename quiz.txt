@@ -1,0 +1,271 @@
+01
+.category:History
+The Lodi dynasty was founded by
+A.Ibrahim Lodi
+B.Sikandar Lodi
+C.Bahlol Lodi
+D.Khizr Khan
+#
+correct answer:-C
+02
+.category:sports
+With which one of the following sports is Fernando Aloso associated?
+A.Ferrari
+B.Billiards
+C.Snooker
+D.Tennis
+#
+correct answer:-A
+03
+.category:general
+Which of the following goods are close substitutes?
+A.Milk and Sugar
+B.Sugar and Tea
+C.Tea and Coffee
+D.Coffee and Biscuits
+#
+correct answer:-C
+04
+.category:economics
+Which one of the following is an developmental expenditure?
+A.irrigation expenditure
+B.Civil administration
+C.Debt Services
+D.Grant-in-aid
+#
+correct answer:-A
+05
+.category:economics
+poverty in less developed countries is largely due to?
+A.voluntary idleness
+B.income inequality
+C.lack of cultural activities
+D.lack of intelligence of the people
+#
+correct answer:-B
+06
+.category:science
+Name the proicess of production of energy in the sun
+A.Nuclear Fission
+B.Radion activity
+C.Nuclear Fusion
+D.ionization
+#
+correct answer:-C
+07
+.category:general
+The concept of general will was advocated by
+A.Hume
+B.Hegel
+C.Kant
+D.Rousseau
+#
+correct answer:-A
+08
+.category:economics
+In captilistic Economy the prices are determined by
+A.Demand and supply
+B.Government Authorities
+C.Buyers in the market
+D.Sellers in the market
+#
+correct answer:-A
+09
+.category:awards
+Whom among the following is a famous Cheif election commisioner of india who has been awarded Magsaysay award
+A.Sukumar Sen
+B.M.S.Gill
+C.J.M.Linghdoh
+D.S.L.Sakdhar
+#
+correct answer:-C
+10
+.category:History
+painting reached its highest level of development during the reign of
+A.Akbar
+B.Arangjeb
+C.jahangir
+D.Shah Jahan
+#
+correct answer:-C
+11
+.category:science
+in photocell light energy is converted into
+A.potential energy
+B.chemical energy
+C.heat energy
+D.Electrical energy
+#
+correct answer:-D
+12
+.category:computer
+Data that is copied from an application is stored in the
+A.driver
+B.clipboard
+C.terminal
+D.prompt
+#
+13
+.category:History
+Who was the founder editor of the famous news paper Kesari during the national struggle
+A.Mahatma Gandhi
+B.Jawaharlal Nehru
+C.Lokmanya Tilak
+D.Muhammad Iqbal
+#
+correct answer:-C
+14
+.category:computer
+Which of the following menu types is also called a dropdown menu
+A.fly-out
+B.Cascading
+C.pop-up
+D.pull-down
+#
+correct answer:-D
+15
+.category:computer
+Data in computer stored as
+A.files
+B.directories
+C.floppies
+D.matter
+#
+correct answer:-A
+16
+.category:computer
+The central processing unit contains which of the following as a component
+A.Memory regulation unit
+B.flow control unit
+C.arithematic logical unit
+D.insruction Manipulation unit
+#
+correct answer:-C
+17
+.category:computer
+Memory unit is one part of
+A.control unit
+B.central processing unit 
+C.input device
+D.output device
+#
+correct answer:-B
+18
+.category:computer
+The process of writing out computer instruction is known as
+A.assembling
+B.compiling
+C.executing
+D.coding
+#
+correct answer:-D
+19
+.category:computer
+the character of information represented by an
+A.byte
+B.bit 
+C.field
+D.attribute
+#
+correct answer:-A
+20
+.category:computer
+Example of a telecommunication device is an
+A.keyboard
+B.mouse
+C.printer
+D.modem
+#
+correct answer:-D
+21
+.category:computer
+which device is used as a standered pointing device in graphical user environment
+A.Key board
+B.mouse
+C.joystick
+D.track ball
+#
+correct answer:-C
+22
+.category:civics
+Which artical of the indian constitution abholishes untouchability
+A.14
+B.15
+C.16
+D.17
+#
+correct answer:-D
+correct answer:-B
+23
+.category:computer
+A collection of interrelated records is called a
+A.management information system
+B.Spread sheet
+C.database
+D.text file
+#
+correct answer:-C
+24
+.category:computer
+code consists of bars or lines of varying widths or lenghts that are computer readable are known as
+A.a bar code
+B.an ASCII code
+C.a magnetic tape
+D.a light pen
+#
+correct answer:-A
+25
+.category:computer
+the process of finding errors in the software code
+A.compiling
+B.assembling
+C.interpreting
+D.debugging
+#
+correct answer:-D
+26
+.category:general
+Who is known as the father of geometry
+A.pythogras
+B.Euclid
+C.aristotle
+D.kepler
+#
+correct answer:-B
+27
+.category:general
+Who is the author of the book conquest of happieness
+A.Thomas Hardey
+B.Aldous Huxley
+C.Bertrand Russel
+D.George Bernard Shaw
+#
+correct answer:-C
+28
+.category:awards
+kalinga prize is given in which of the following fields
+A.Arts
+B.Medicine
+C.creative writing
+D.science
+#
+correct answer:-D
+29
+.category:general
+The number of judges in international court of justice is
+A.11
+B.15
+C.18
+D.7
+#
+correct answer:-B
+30
+.category:general
+where is the forest research institute located
+A.Dehradun
+B.Bhopal
+C.lucknow
+D.delhi
+#
+correct answer:-A
+@
